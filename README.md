@@ -1,1 +1,1 @@
-# Pr-ctica-Atlas-exploraci-n-de-datos
+# Practica-Atlas-exploracion-de-datos
