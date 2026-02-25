@@ -16,6 +16,8 @@ Esta práctica se divirá en los siguientes apartados:
 - 03 - Análisis de preguntas
 - 04 - Resumen y conclusiones
 
+**Primeras impresiones**
+---
 
 
 

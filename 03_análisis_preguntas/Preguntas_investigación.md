@@ -1,4 +1,9 @@
+**Análisis de preguntas**
+---
+
 Además de las preguntas mencionadas en la exploración para ir encaminando el análisis de los datos que teníamos estas son algunas de las preguntas más importantes con las que nos quedamos nosotros y a las que intentamos dar explicación:
+
+---
 
 1. ¿Qué se puede responder y qué no se puede responder con estos datos?
 
