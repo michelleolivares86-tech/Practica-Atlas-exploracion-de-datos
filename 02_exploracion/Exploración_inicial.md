@@ -1,7 +1,7 @@
 Tras un primer acercamiento a los datos y realizar conteos, sacar medias y modas estas son las preguntas que pudimos contestar del repositorio que se nos facilitó para orientarnos. 
 
-📊 Sobre el comportamiento de los datos:
-
+**📊 Sobre el comportamiento de los datos**
+---
 - ¿Qué categorías de libros son las más prestadas?¿y las menos?
 Más prestadas: Ficción
 Menos: Poesía 
@@ -15,8 +15,8 @@ Observamos que cuando más se sacan son en primavera (marzo, abril y mayo), pró
 - ¿Cuánto tiempo tardan en promedio en devolver los libros?
 En promedio 14 días, observamos que esa es la media de préstamo ya que algunos devueltos a los 15 días ya son marcados con retraso, por lo que nos hace pensar que el préstamo principal es de 14 días, pudiendo variar en ensayos u otro tipo de libros más extensos.
 
-🔍Sobre características de los datos:
-
+**🔍Sobre características de los datos:**
+---
 - ¿Cuántos préstamos hay en total?
  261 préstamos
 
