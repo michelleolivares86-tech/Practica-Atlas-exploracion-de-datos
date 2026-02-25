@@ -39,36 +39,36 @@ Uno muy bajo, siendo tan solo 15 libros de los 261 prestados
 
 En comparación por la cantidad de libros que vemos por género, el libro que más tarda en devolverse es la poesía, ya que se prestaron 3 y 2 de ellos fueron devueltos fuera de plazo. Por cantidad, los que más tardaron en devolver son los de ficción, 6 de ellos pero en comparación con sus préstamos (103) el porcentaje es más bajo.
 
-**Análisis de preguntas**
+**🙇 Análisis de preguntas**
 ---
 
 Además de las preguntas mencionadas en la exploración para ir encaminando el análisis de los datos que teníamos estas son algunas de las preguntas más importantes con las que nos quedamos nosotros y a las que intentamos dar explicación:
 
 
-1. ¿Qué se puede responder y qué no se puede responder con estos datos?
+- 🌟 ¿Qué se puede responder y qué no se puede responder con estos datos?
 
-2. ¿Por qué solo hay un registro de préstamo al día?
+- 🌟 ¿Por qué solo hay un registro de préstamo al día?
 
 
 Esto nos hizo pensar que quizás este registro se trata del primer préstamo del día o que se trata de una biblioteca muy muy pequeña. Descartamos también la hipótesis de que pudiese ser un registro personal o de una unidad familiar, aunque lo descartamos porque eran muchos préstamos y casi a diario. 
 
-3. ¿Por qué hay días de la semana que tienen más préstamos que el resto (martes y domingos)?
+- 🌟 ¿Por qué hay días de la semana que tienen más préstamos que el resto (martes y domingos)?
 
 
 Comprendemos que los lunes por la mañana o no abre la biblioteca (no hay préstamos) o la gente no suele ir por el principio de semana. Además a partir de junio además dejan de haber préstamos, por lo que comprendemos que van reduciendo sus servicios. 
 
-4. ¿Por qué a partir de mayo baja la actividad hasta enero?
+- 🌟 ¿Por qué a partir de mayo baja la actividad hasta enero?
 
 
 Entendemos que van reduciendo servicios hasta septiembre porque como en muchos servicios su actividad baja en verano
 
 
-5. ¿Por qué hay más libros en catalán que en inglés?
+- 🌟 ¿Por qué hay más libros en catalán que en inglés?
 
 
 Puede deberse a su ubicación, podría estar en cataluña. La gran mayoría se concentra además en literatura infantil. 
 
-6. ¿Qué patrones repetidos encontramos en la tabla?
+- 🌟 ¿Qué patrones repetidos encontramos en la tabla?
 
 
 Encontramos varios, entre ellos:
