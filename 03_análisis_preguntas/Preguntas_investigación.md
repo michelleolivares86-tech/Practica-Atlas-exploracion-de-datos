@@ -76,3 +76,4 @@ Encontramos varios, entre ellos:
 - Vemos el patron horario/temporal: con él concluimos que de enero a junio la biblioteca abre de lunes a domingo, a partir de junio solo martes, miércoles, viernes y domingo. En julio y agosto martes, jueves, domingo y en septiembre vuelve a tener un horario reducido pero aumenta hasta fin de año y se mantiene en martes, miércoles, viernes y domingo.
 
 
+
