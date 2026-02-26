@@ -3,6 +3,7 @@
 > **Proyecto 1** | Módulo 1: Fundamentos y Exploración de Datos  
 > Bootcamp de Data Analyst  
 > Autoría del proyecto: Anaïs Rodríguez Villanueva
+
 > Grupo 2: Alain Larruscain, Carolina Tomás, Lucía Llaneza, Iván González, Michelle Olivares 
 
 ---

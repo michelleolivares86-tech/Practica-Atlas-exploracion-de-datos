@@ -15,3 +15,4 @@ Como mencionamos en varias ocasiones a lo largo del proyecto, lo que más nos hi
 ---
 
 **👤Bitácora personal**
+--- 
