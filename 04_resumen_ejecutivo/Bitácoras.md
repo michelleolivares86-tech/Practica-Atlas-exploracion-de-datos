@@ -16,3 +16,22 @@ Como mencionamos en varias ocasiones a lo largo del proyecto, lo que más nos hi
 
 **👤Bitácora personal**
 --- 
+📌 Qué he observado
+
+
+Durante este proyecto he observado las mil vueltas que podemos darle a los datos y los millones de hipótesis que podemos sacar con tan pocos datos (en comparación con una tabla de préstamos reales donde podríamos encontrar más préstamos reales). 
+
+✨ Qué me ha sorprendido
+
+
+Como cada uno poco a poco hemos ido sacando ideas y de manera natural trabajando en lo que mejor llevábamos pero siempre participando en común y ayudándonos en lo que más sabíamos cada uno.
+
+❓ Qué preguntas me surgen
+
+
+Me surge la duda de cuántos datos e ideas podemos sacar de tablas más extensas y más estructuradas, además del trabajazo que tiene que suponer (y que nosotros nos hemos evitado) limpiar los datos.
+
+🤷 Qué no entiendo todavía
+
+
+Todavía me cuesta entender las fórmulas de Google Sheets, pero creo que solo es practicar con ello un poco más. 
