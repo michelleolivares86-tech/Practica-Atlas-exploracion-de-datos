@@ -1,10 +1,10 @@
-**Cantidades y frecuencias**
+**🎓Cantidades y frecuencias**
 ---
-Tras un primer acercamiento a los datos y realizar conteos, sacar medias y modas y los cálculos básicos que se nos daban llegamos a las siguientes conclusiones que también se pueden ver en las tablas de la carpeta anterior son:
+Tras un primer acercamiento a los datos y realizar conteos, sacar medias y modas y los cálculos básicos que se nos daban llegamos a las siguientes conclusiones que también se pueden ver en las tablas de la carpeta anterior:
 
 - La ficción tiene 103 préstamos del total, siendo estos el 39,46%, seguida por los préstamos infantiles que son el 21,07%, ensayo y cómic quedan casi empatados con un 13%, la novela gráfica y la divulgación entre un 5-6%, mientras que la poesía con solo 3 préstamos corresponde al 1.15%. 
 
-- El promedio de días de préstamo se encuentra en unos 14 días, no podemos afirmar que son 15 porque algunos devueltos en estos días cuentan como entregados en fuera de plazo. El préstamo más largo fue de 35 días y el más corto en 7. 
+- El promedio de días de préstamo se encuentra en unos 14 días, no podemos afirmar que son 15 porque algunos devueltos en este plazo cuentan como no devuelto a tiempo. El préstamo más largo fue de 35 días y el más corto en 7. 
 
 - El porcentaje de idiomas sería: 80% español, 9% inglés y 11% en catalán. 
 
