@@ -1,6 +1,14 @@
 **Cantidades y frecuencias**
 ---
-Tras un primer acercamiento a los datos y realizar conteos, sacar medias y modas estas son las preguntas que pudimos contestar del repositorio que se nos facilitó para orientarnos. 
+Tras un primer acercamiento a los datos y realizar conteos, sacar medias y modas y los cálculos básicos que se nos daban llegamos a las siguientes conclusiones que también se pueden ver en las tablas de la carpeta anterior son:
+
+- La ficción tiene 103 préstamos del total, siendo estos el 39,46%, seguida por los préstamos infantiles que son el 21,07%, ensayo y cómic quedan casi empatados con un 13%, la novela gráfica y la divulgación entre un 5-6%, mientras que la poesía con solo 3 préstamos corresponde al 1.15%. 
+
+- El promedio de días de préstamo se encuentra en unos 14 días, no podemos afirmar que son 15 porque algunos devueltos en estos días cuentan como entregados en fuera de plazo. El préstamo más largo fue de 35 días y el más corto en 7. 
+
+- El porcentaje de idiomas sería: 80% español, 9% inglés y 11% en catalán. 
+
+Estas son las preguntas que pudimos contestar del repositorio que se nos facilitó para orientarnos. 
 
 **📊 Sobre el comportamiento de los datos**
 ---
@@ -46,6 +54,12 @@ Además de las preguntas mencionadas en la exploración para ir encaminando el a
 
 
 - 🌟 ¿Qué se puede responder y qué no se puede responder con estos datos?
+
+
+Lo que sí podemos responder es cuál es el género más popular, qué días hay más préstamos y qué días menos (pudiendo adivinar así los días que quizás cierra la biblioteca) y cuando dan servicios mínimos.
+
+Con estos datos lo que no podemos responder es si estos son los préstamos reales de una biblioteca, ya que lo que más nos llama la atención es que solo se está realizando un préstamo al día. Lo que nos da a entender que esto es solo el primer préstamo de la jornada.
+
 
 - 🌟 ¿Por qué solo hay un registro de préstamo al día?
 
