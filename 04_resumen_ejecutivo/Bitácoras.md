@@ -72,3 +72,5 @@ Me surge la duda de cuántos datos e ideas podemos sacar de tablas más extensas
 
 
 Todavía me cuesta entender las fórmulas de Google Sheets, pero creo que solo es practicar con ello un poco más. 
+ 
+ >Michelle Olivares Maldonado 
