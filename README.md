@@ -2,9 +2,9 @@
 
 > **Proyecto 1** | Módulo 1: Fundamentos y Exploración de Datos  
 > Bootcamp de Data Analyst  
-> Autoría del proyecto: Anaïs Rodríguez Villanueva
+> Propuesta del proyecto: [Anaïs Rodríguez Villanueva](https://github.com/Anais-RV)
 
-> Grupo 2: Alain Larruscain, Carolina Tomás, Lucía Llaneza, Iván González, Michelle Olivares 
+> Grupo 2: [Alain Larruscain](https://github.com/Alain-coder1), [Carolina Tomás](https://github.com/KrolinaTF), [Lucía Llaneza](https://github.com/luciallaneza), [Iván González](https://github.com/Asenjo76), [Michelle Olivares](https://github.com/michelleolivares86-tech) 
 
 ---
 
